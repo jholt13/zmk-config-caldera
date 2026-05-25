@@ -13,10 +13,10 @@
 #
 ---
 include:
-  - board: nice_nano@2.0.0
+  - board: nice_nano//zmk@2.0.0
     shield: caldera_left
     snippet: zmk-usb-logging
-  - board: nice_nano@2.0.0
+  - board: nice_nano//zmk@2.0.0
     shield: caldera_right
-  - board: nice_nano@2.0.0
+  - board: nice_nano//zmk@2.0.0
     shield: settings_reset
